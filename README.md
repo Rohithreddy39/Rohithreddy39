@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @Rohithreddy39
-- 👀 I’m interested in Software development and data science
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on building web api and problem solving
-- 📫 Reach me at (allurirohithreddy23@gmail.com)
-- 😄 Pronouns: He/him
+👋 Hi, I’m Rohith Reddy Alluri (@Rohithreddy39)
+
+🚀 Aspiring Software Developer & Data Scientist  
+💡 Passionate about building scalable applications, data-driven solutions, and interactive web interfaces.
+
+🌱 Currently learning:
+- Advanced Python (NumPy, Pandas, OOP, APIs)
+- Web Development (Flask, Streamlit, JavaScript)
+- Cloud (AWS)
+
+🤝 Looking to collaborate on:
+- Python projects (APIs, automations, ML models)
+- Web apps with modern UI/UX
+- Data analysis & visualization projects
+
+📫 Contact me: **allurirohithreddy23@gmail.com**  
+😄 Pronouns: He/Him
+
   
 
 <!---
