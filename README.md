@@ -1,12 +1,13 @@
 👋 Hi, I’m Rohith Reddy Alluri (@Rohithreddy39)
 
-🚀 Aspiring Software Developer & Data Scientist  
+🚀 Passionate Data Analyst and aspiring Data Scientist.  
 💡 Passionate about building scalable applications, data-driven solutions, and interactive web interfaces.
 
 🌱 Currently learning:
 - Advanced Python (NumPy, Pandas, OOP, APIs)
 - Web Development (Flask, Streamlit, JavaScript)
 - Cloud (AWS)
+- LLMs
 
 🤝 Looking to collaborate on:
 - Python projects (APIs, automations, ML models)
